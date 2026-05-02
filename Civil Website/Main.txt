@@ -1,0 +1,13 @@
+<html>
+<head><title> Main </title></head>
+<body bgcolor="3A849C">
+<h1 style="Tahoma" align="center">
+Resilient Infrastructure </h1>
+<BR><BR>
+<BR><BR>
+<BR><BR>
+<p style="Arial" size="12" align="left">
+Resilient Infrastructure is the Idea that our buildings should be handled with care and quality that is able to deal with hazard to it
+<br> like climate change </p>
+</body>
+</html>

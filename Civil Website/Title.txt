@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> Title </title>
+</head>
+<body bgcolor="0970E0">
+<h3 style="Tahoma" align="center">
+Resilient Infrastructure </h3>
+<p size="2" style="Times New Roman" align="center">
+"The Foundation of a Stable Society"
+</p>
+</body>
+</html

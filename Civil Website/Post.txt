@@ -1,0 +1,14 @@
+<html>
+<head><title> Credits </title><head>
+<body bgcolor="28784D">
+<h1 color="white" align="center" style="Times New Roman">
+Credits </h1>
+<p size="12" color="white" align="center" style="Times New Roman">
+By: WEE, REINHARDT STEVEN A.
+<BR><BR>From: Western Mindanao State University
+<BR><BR>Section: BSCE 1A
+<BR><BR> Phone Number: reivenwee124@gmail.com
+</p>
+</body>
+</html>
+

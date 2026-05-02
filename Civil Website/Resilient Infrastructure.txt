@@ -1,0 +1,14 @@
+<html>
+<head><title> Resilient Infrastructure </title></head>
+<body bgcolor="3A849C">
+<h1 align="center" style="Tahoma">  Importance of Resilient Infrastructure
+<BR><BR>
+<BR><BR>
+<BR><BR>
+<h2 align="left" style="Tahoma"> Safety </h2>
+<p color="black" style="Times New roman" align="left">
+Having Resilient Structures is good for the safety of the people especially during floods or earthquake. </p>
+<BR><BR>
+<h2 align="left" style="Tahoma"> Public Good </h2>
+<p color="black" style="Times New roman" align="left">
+Having good roads and bridges is good for transport </p>

@@ -1,0 +1,13 @@
+<html>
+<head><title> Conclusion </title></head>
+<body bgcolor="3A849C">
+<h1 align="center" style="Tahoma"> Conclusion </h1>
+<BR><BR>
+
+<p color="black" style="Times New roman" align="left">
+So in conclusion, We must advocate that our buildings be improved as they provide a lot to our society and to the people that inhabit it. And it is our duty as civil engineers to make sure that these buildings are of high quality and safety for the betterment of our society and community.
+<BR><BR>
+Thank you for Reading.
+<?p>
+</body>
+</html>
